@@ -1,0 +1,22 @@
+{
+  "name": "shiji",
+  "version": "1.0.0",
+  "description": "A LogSystem just for fun",
+  "main": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["log"],
+  "author": "sunchen",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "~6.26.3",
+    "babel-cli": "~6.26.0",
+    "babel-register": "~6.26.0",
+    "babel-preset-env": "~1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "~7.1.0",
+    "es-check": "~5.1.0"
+  }
+}
